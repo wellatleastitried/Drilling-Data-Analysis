@@ -14,8 +14,8 @@ The project requires Python 3.8 or higher. The following Python libraries are us
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/wellatleastitried/CS4273-GroupProject
+   cd CS4273-GroupProject
    ```
 
 2. Install the dependencies using the `requirements.txt` file:
