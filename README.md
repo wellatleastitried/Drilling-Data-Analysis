@@ -25,7 +25,7 @@ The project requires Python 3.8 or higher. The following Python libraries are us
 
    > **Note**: It's recommended to use a Python virtual environment to avoid conflicts:
    > ```bash
-   > python -m venv venv
+   > python -m venv venv  # On Windows: py -m venv venv
    > source venv/bin/activate  # On Windows: venv\Scripts\activate
    > pip install -r requirements.txt
    > ```
