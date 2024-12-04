@@ -29,3 +29,10 @@ The project requires Python 3.8 or higher. The following Python libraries are us
    > source venv/bin/activate  # On Windows: venv\Scripts\activate
    > pip install -r requirements.txt
    > ```
+
+## Execution
+
+To run this program, simply run the UI.py file:
+```bash
+python3 UI.py  # On Windows: py UI.py
+```
