@@ -1,4 +1,4 @@
-# CS4273-GroupProject
+# Drilling-Data-Analysis
 
 We will be utilizing 10,000’ of drilling data to implement an algorithm that will detect whether the mode of drilling is sliding or rotating. In order to do this we will be ingesting data from excel that will be categorized into the different drilling parameters utilizing python data frames. We will then pass the data through our algorithm to determine the drilling mode being performed and then display that data on a custom UI. This will be a more basic version of the algorithm that is being designed by the company as it is not utilizing machine learning, but it will still demonstrate the end goal of detection and display of the rig state.
 
@@ -14,8 +14,8 @@ The project requires Python 3.8 or higher. The following Python libraries are us
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/wellatleastitried/CS4273-GroupProject
-   cd CS4273-GroupProject
+   git clone https://github.com/wellatleastitried/Drilling-Data-Analysis
+   cd Drilling-Data-Analysis
    ```
 
 2. Install the dependencies using the `requirements.txt` file:
