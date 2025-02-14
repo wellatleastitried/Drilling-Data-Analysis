@@ -36,3 +36,6 @@ To run this program, simply run the UI.py file:
 ```bash
 python3 UI.py  # On Windows: py UI.py
 ```
+## Notice
+
+This project was a part of a group project for Software Engineering.
